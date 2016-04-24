@@ -55,10 +55,10 @@ public class Astar : MonoBehaviour {
 		{ 1, "バナナ" },
 		{ 2, "チョコレート" },
 	};
-//	private List<int> intList = new List<int>();
-//	private List<Dictionary<int, string>> intList = new List<Dictionary<int, string>>(){
-//		{ 0{0, "test"} },
-//	};
+	private List<int> intList = new List<int>();
+	private List<Dictionary<int, string>> intList = new List<Dictionary<int, string>>(){
+		{ 0{0, "test"} },
+	};
 
 
 
