@@ -19,3 +19,4 @@ ProjectSettings/
 # だけど .png だけは無視したくない
 img/*.*
 !.png
+
