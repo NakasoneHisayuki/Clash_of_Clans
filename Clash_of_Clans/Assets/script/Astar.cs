@@ -59,7 +59,7 @@ public class Astar : MonoBehaviour {
 //	private List<Dictionary<int, string>> intList = new List<Dictionary<int, string>>(){
 //		{ 0{0, "test"} },
 //	};
-
+	//
 
 
 	// Use this for initialization
